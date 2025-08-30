@@ -24,7 +24,7 @@ export const ProductDetails = () => {
         <ul>
           <li>Nombre: cafe + sandwich de Pollo</li>
           <li>Precio: $12.000</li>
-          <li>Descripción: Una deliciosa merienda casera 
+          <li>Descripción: Una deliciosaa merienda casera 
             
           </li>
         </ul>
