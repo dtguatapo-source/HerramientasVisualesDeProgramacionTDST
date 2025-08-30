@@ -11,6 +11,7 @@ export const ClickCounter = () => {
 
   return (
     <>
+    
       <h2>Ejerciicio 1: Contador de clics</h2>
       <p>Has hecho clic {count} veces</p>
       <button onClick={() => setCount(count + 1)}>Haz clic aquí</button>

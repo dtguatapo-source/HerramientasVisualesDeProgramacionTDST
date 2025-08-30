@@ -9,9 +9,10 @@ import { ProductDetails } from "./components/ProductDetails";
 function App() {
   const [count, setCount] = useState(0)
 
-  
+
   return (
     <>
+    
       <BasicTypes/>
       <ClickCounter />
       <ProductDetails />

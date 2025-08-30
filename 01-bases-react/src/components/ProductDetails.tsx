@@ -15,6 +15,7 @@ export const ProductDetails = () => {
 
   return (
     <>
+    
       <h2>Ejercicio 2: Mostrar/ocultar detalles</h2>
       <button onClick={() => setShowDetails(!showDetails)}>
         {showDetails ? "Ocultar detalles" : "Mostrar detalles"}
