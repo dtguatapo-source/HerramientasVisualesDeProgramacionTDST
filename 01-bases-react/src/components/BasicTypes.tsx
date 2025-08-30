@@ -13,6 +13,7 @@ export const BasicTypes = () => {
 
       
 
+
       {/* Operador ternario */}
       {isActive ? (
         <ul>
