@@ -9,7 +9,11 @@ import { ProductDetails } from "./components/ProductDetails";
 function App() {
   const [count, setCount] = useState(0)
 
-
+  // cada componente pinta lo suyo de manera independiente pero todos dentro de la misma pagina 
+  //es mi conetenedor priniciapl de react 
+  //se importa y organizo los componentes 
+  //se exporta para que se renderice dentro de index 
+  //renderizar->mostar un codigo simple en elementos visuales reales en la pantalla del nvgador
   return (
     <>
     
